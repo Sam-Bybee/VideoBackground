@@ -96,3 +96,25 @@ video {
     /* Changes the size of the element */
     transform: scale(0.95);
 }
+
+/* ABOUT SECTION */
+
+#about {
+    text-align: center;
+    padding: 50px;
+}
+
+#about > p {
+    font-size: 20px;
+}
+
+#about h2 {
+    margin: 40px;
+    color: #4b5163;
+}
+
+i {
+    font-size: 48px;
+    color: #4b5163;
+    margin: 0 5px;
+}
